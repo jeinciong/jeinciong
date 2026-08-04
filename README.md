@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 💻 Tech Stack:
 <div align="center">
 
