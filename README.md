@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Skills Stack Icoziv](https://i.icoziv.workers.dev/icons?i=js,html,css,react,aws&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 <!--
+[![Skills Stack Icoziv](https://i.icoziv.workers.dev/icons?i=js,html,css,react,aws&theme=dark)](https://github.com/thuongtruong109/icoziv)
 # 💻 Tech Stack:
 <div align="center">
 
