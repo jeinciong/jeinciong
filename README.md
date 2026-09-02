@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Skills](https://i.icoziv.workers.dev/icons?i=js,html,css,react,aws,laravel&theme=dark)
+![My Skills](https://i.icoziv.workers.dev/icons?i=js,html,css,react,aws,laravel,laravelblade&theme=dark)
 <!--
 
 # 💻 Tech Stack:
