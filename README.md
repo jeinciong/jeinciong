@@ -1,8 +1,19 @@
 ## Hi there 👋
 
 <!--
-![My Skills](https://i.icoziv.workers.dev/icons?i=js,html,css,react,aws,laravel,php,typescript&theme=dark)
-![My Skills](https://i.icoziv.workers.dev/icons?i=react,typescript,expressjs&theme=dark)
+![Frontend](https://i.icoziv.workers.dev/icons?i=html,css,react,aws,laravel,php,typescript&theme=dark)
+![Backend](https://i.icoziv.workers.dev/icons?i=react,typescript,expressjs&theme=dark)
+
+<p>
+  <img src="https://i.icoziv.workers.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" height="60" />
+  <img src="https://i.icoziv.workers.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" height="60" />
+  <img src="https://i.icoziv.workers.dev/icons?i=react&theme=dark" alt="React" title="React" height="60" />
+  <img src="https://i.icoziv.workers.dev/icons?i=aws&theme=dark" alt="AWS" title="Amazon Web Services" height="60" />
+  <img src="https://i.icoziv.workers.dev/icons?i=laravel&theme=dark" alt="Laravel" title="Laravel" height="60" />
+  <img src="https://i.icoziv.workers.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" height="60" />
+  <img src="https://i.icoziv.workers.dev/icons?i=typescript&theme=dark" alt="TypeScript" title="TypeScript" height="60" />
+</p>
+
 # 💻 Tech Stack:
 <div align="center">
 
