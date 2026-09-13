@@ -1,10 +1,5 @@
 ## Hi there 👋
-# 📊 GitHub Stats:
-<div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=jeinciong&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jeinciong&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeinciong&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 ![Frontend](https://i.icoziv.workers.dev/icons?i=html,css,react,aws,laravel,php,typescript&theme=dark)
 ![Backend](https://i.icoziv.workers.dev/icons?i=react,typescript,expressjs&theme=dark)
@@ -45,3 +40,10 @@
     <img src="https://komarev.com/ghpvc/?username=jeinciong&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
+
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=jeinciong&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jeinciong&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeinciong&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
