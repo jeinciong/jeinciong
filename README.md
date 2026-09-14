@@ -1,9 +1,9 @@
 ## Hi there 👋
-![Databases](https://i.icoziv.workers.dev/icons?i=aws,mysqll&theme=dark)
+
 <!--
 ![Frontend](https://i.icoziv.workers.dev/icons?i=html,css,react,aws,laravel,php,typescript&theme=dark)
 ![Backend](https://i.icoziv.workers.dev/icons?i=react,typescript,expressjs&theme=dark)
-
+![Databases](https://i.icoziv.workers.dev/icons?i=aws,mysqll&theme=dark)
 
 <p>
   <img src="https://i.icoziv.workers.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" height="60" />
